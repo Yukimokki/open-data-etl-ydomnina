@@ -1,0 +1,12 @@
+# raw data (large / not needed in repo)
+data/raw/
+
+# PyCharm
+.idea/*
+
+# Python
+__pycache__/
+*.pyc
+
+# env / secrets (just in case)
+.env
